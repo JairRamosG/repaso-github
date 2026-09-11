@@ -1,1 +1,1 @@
-este es de la rama segundo
+este es de la rama segundo pero sin conflicto
