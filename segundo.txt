@@ -1,0 +1,7 @@
+este es de la rama segundo pero sin conflicto
+
+mas cosas en el archivo
+
+hola hola hola
+
+esto no esta en el commit
